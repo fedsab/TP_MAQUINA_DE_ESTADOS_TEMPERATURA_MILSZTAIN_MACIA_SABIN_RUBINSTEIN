@@ -8,7 +8,7 @@
 //VARIABLES
 #define LED 25   //LED INTEGRADO
 float umbral = 28; //Temperatura de umbral
-int pantalla = 2;    //1 = temp actual y valor umbral / 2 = solo umbral (modificado)
+int pantalla = 1;  //1 = temp actual y valor umbral / 2 = solo umbral (modificado)
 int cambiar = 0;
 
 //BOTONES
